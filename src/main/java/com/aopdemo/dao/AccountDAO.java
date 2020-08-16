@@ -19,7 +19,7 @@ public class AccountDAO {
     public List<Account> findAccounts(boolean tripWire){
 
         if(tripWire){
-            System.out.println("it is not for you");
+            throw new RuntimeException("it is not for you");
         }
 
         List<Account> myAccounts = new ArrayList<>();

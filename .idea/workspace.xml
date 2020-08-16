@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7241a8db-e2e7-4d64-9b17-fe7ec17155a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aopdemo/MainDemoAppForAfterThrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/aopdemo/MainDemoAppForAfterFinally.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aopdemo/MainDemoAppForAfterReturring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aopdemo/MainDemoAppForAfterReturring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/aopdemo/aspect/MyDemoLoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aopdemo/aspect/MyDemoLoggingAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aopdemo/dao/AccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aopdemo/dao/AccountDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/aopdemo/MainDemoAppForAfterReturring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aopdemo/MainDemoAppForAfterReturring.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/aopdemo/aspect/MyDemoLoggingAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aopdemo/aspect/MyDemoLoggingAspect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/aopdemo/dao/AccountDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aopdemo/dao/AccountDAO.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +124,7 @@
       <workItem from="1597496650619" duration="5103000" />
       <workItem from="1597550734107" duration="15000" />
       <workItem from="1597550959746" duration="5986000" />
-      <workItem from="1597582242060" duration="5398000" />
+      <workItem from="1597582242060" duration="6155000" />
     </task>
     <servers />
   </component>
