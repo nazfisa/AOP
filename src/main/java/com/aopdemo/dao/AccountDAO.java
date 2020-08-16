@@ -16,7 +16,12 @@ public class AccountDAO {
         System.out.println(getClass()+": Doing my DB work: ADDING an account");
     }
 
-    public List<Account> findAccounts(){
+    public List<Account> findAccounts(boolean tripWire){
+
+        if(tripWire){
+            System.out.println("it is not for you");
+        }
+
         List<Account> myAccounts = new ArrayList<>();
 
         Account account = new Account("asif","silver");
