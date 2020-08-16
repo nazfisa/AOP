@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7241a8db-e2e7-4d64-9b17-fe7ec17155a7" name="Default Changelist" comment="" />
+    <list default="true" id="7241a8db-e2e7-4d64-9b17-fe7ec17155a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/aopdemo/MainDemoAppForAfterReturring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aopdemo/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aopdemo/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aopdemo/aspect/MyDemoLoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aopdemo/aspect/MyDemoLoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aopdemo/dao/AccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aopdemo/dao/AccountDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/aopdemo/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aopdemo/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/aopdemo/aspect/MyDemoLoggingAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aopdemo/aspect/MyDemoLoggingAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/aopdemo/dao/AccountDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aopdemo/dao/AccountDAO.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1g8WJelc1vByWx0R0BJL4EmkGdz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -35,6 +50,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aopdemo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainDemoAppForAfterReturring">
     <configuration name="MainDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aopdemo.MainDemoApp" />
       <module name="AOP" />
@@ -62,8 +82,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainDemoAppForAfterReturring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aopdemo.MainDemoAppForAfterReturring" />
+      <module name="AOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aopdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainDemoAppForAfterReturring" />
         <item itemvalue="Application.MainDemoApp" />
       </list>
     </recent_temporary>
@@ -81,11 +115,22 @@
       <workItem from="1597496650619" duration="5103000" />
       <workItem from="1597550734107" duration="15000" />
       <workItem from="1597550959746" duration="5986000" />
-      <workItem from="1597582242060" duration="104000" />
+      <workItem from="1597582242060" duration="2824000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
